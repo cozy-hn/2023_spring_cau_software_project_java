@@ -1,1 +1,0 @@
-This is the assignment of the software project class, which is the java class, in the spring of 2023.
