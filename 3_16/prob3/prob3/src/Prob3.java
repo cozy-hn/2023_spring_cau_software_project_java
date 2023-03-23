@@ -10,7 +10,7 @@ public class Prob3{
         i[2] = in.nextInt();
         Arrays.sort(i);
         in.close();
-        if (i[0]+i[1] <= i[2])
+        if (i[0]+i[1] <= i[2] || i[0]<=0)
             System.out.println("No triangle");
         else
             System.out.println("Yes triangle");
